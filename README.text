@@ -1,0 +1,35 @@
+Project Details:
+
+I used Cucumber framework with TestNG runner class
+I followed the Page Object Model (Page Action Model) structure
+I created separate page classes for each module (Home, Login, Search, Add to Cart)
+I used Step Definition classes for each feature file
+I used Hooks class for before and after scenario setup
+I used an Excel utility class to read test data dynamically
+Login test data is read from an Excel file
+Feature files are maintained separately in the project structure
+
+I did the project you gave me, but I relied on internet help because I don’t have much knowledge in TypeScript. I do have knowledge in Playwright, so I did that. Additionally, I’ve done a project in my style using Playwright. Please look at that and also check the project structure. In case you want to know if I have knowledge in any other technology, I’m ready to answer. If you have anything like that, you can ask me.Or if there are other tools or technologies you think I should learn, I’m ready to learn them—just let me know.
+
+
+WHAT I HAVE Tools and Technologies:
+
+Selenium WebDriver (Strong knowledge, currently working)
+Playwright with Java (Learning and practicing)
+Java programming language
+TestNG and Cucumber framework
+Git for version control
+Jira for project tracking and documentation
+Jenkins for CI/CD (job execution and scheduling)
+Postman for API testing
+SQL for backend data validation
+Agile methodology experience
+
+Reporting:
+
+Cucumber JVM reports
+Extent Spark report
+
+I am currently working with Selenium, and I am learning Playwright step by step. I have good understanding of automation concepts and I can work independently on frameworks.
+
+Thank you for your time and consideration.

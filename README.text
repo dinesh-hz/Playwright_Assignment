@@ -12,26 +12,3 @@ Feature files are maintained separately in the project structure
 I did the project you gave me, but I relied on internet help because I don’t have much knowledge in TypeScript. I do have knowledge in Playwright, so I did that. Additionally, I’ve done a project in my style using Playwright. Please look at that and also check the project structure. In case you want to know if I have knowledge in any other technology, I’m ready to answer. If you have anything like that, you can ask me.Or if there are other tools or technologies you think I should learn, I’m ready to learn them—just let me know.
 
 
-WHAT ARE I HAVE Tools and Technologies:
-
-Selenium WebDriver (Strong knowledge, currently working)
-Playwright  (Learning and practicing)
-Java programming language
-TestNG Or Junit and Cucumber framework
-GitHub for version control
-Jira for project tracking and documentation
-Jenkins for CI/CD (job execution and scheduling)
-Postman for API testing
-SQL for backend data validation
-Agile methodology experience
-I will use a base class to reuse and maintain code that’s common with Selenium methods.
-For project configuration data, I will take it from the config properties file. If I need test data, I will take it from the Excel sheet.
-
-Reporting:
-
-Cucumber JVM reports
-Extent Spark report
-
-I am currently working with Selenium, and I am learning Playwright step by step. I have good understanding of automation concepts and I can work independently on frameworks.
-
-Thank you for your time and consideration.
